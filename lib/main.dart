@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:qr_pro_scan/splash_screen.dart';
+import 'package:qr_pro_scan/features/onboarding/presentation/views/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());

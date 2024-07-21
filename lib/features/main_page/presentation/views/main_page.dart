@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:qr_pro_scan/generate_qr_code.dart';
-import 'package:qr_pro_scan/scan_qr_code.dart';
+import 'package:qr_pro_scan/features/qr_code/presentation/views/generate_qr_code.dart';
+import 'package:qr_pro_scan/features/qr_code/presentation/views/scan_qr_code.dart';
 import 'package:flutter/services.dart';
 import 'package:qr_flutter/qr_flutter.dart';
 
